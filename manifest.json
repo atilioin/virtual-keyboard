@@ -1,0 +1,18 @@
+{
+"name": "HTML5 Virtual Keyboard",
+"description": "A Simple Web App that allows you to use different keyboard layouts",
+"version": "1.3",
+"icons": {
+"128": "cloud-keyboard.jpg"
+},
+"app": {
+"urls": [
+"http://andinasf.com.ar/toolbox/vk"
+],
+"launch": {
+"web_url": "http://andinasf.com.ar/toolbox/vk"
+}
+},
+"permissions": [
+]
+}
