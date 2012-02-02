@@ -35,7 +35,7 @@ header h1 {
 	padding-top:15px;
 }
 textarea {
-	background: url(http://i.stack.imgur.com/ynxjD.png) repeat-y;
+	background: url(../img/notebook-background.png) repeat-y;
 	width: 600px;
 	height: 300px;
 	font: normal 14px verdana;
